@@ -1,2 +1,2 @@
 # NetBeansBD
-Mateo rpimer repositroio
+Primer repositorio, en Java NetBeans
